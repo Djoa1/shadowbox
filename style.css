@@ -1,0 +1,13 @@
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+.boxeador {
+    display: flex;
+    justify-content: center;
+}
+
+.movimentos {
+    visibility: hidden;
+}
