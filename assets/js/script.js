@@ -12,5 +12,5 @@ function iniciarShadow(){
 
     }, 1250);
 }
-//teste
+
 setInterval(function() {iniciarShadow()}, 4500);
